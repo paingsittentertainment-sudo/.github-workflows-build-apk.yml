@@ -1,0 +1,5 @@
+      - name: Add Ayra Logo
+        run: |
+          # အင်တာနက်ပေါ်က ကိုကို့ Logo ပုံကို ယူပြီး App Icon အဖြစ် သတ်မှတ်မယ်
+          curl -L "ကိုကို့Logoပုံရဲ့DirectLink" -o app/src/main/res/mipmap-mdpi/ic_launcher.png
+          
